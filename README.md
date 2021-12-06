@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on - too many projects that I'll never finish 
+- 🔭 I’m currently working on - too many projects that I'll likely never finish 
 - 🌱 I’m currently learning - I don't even know anymore i do random things 
 - 📫 How to reach me: discord: tbone#2652
 
