@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on - note taking software
+- 🔭 I’m currently working on - note taking software with built in graphing calculator functionality
 - 🌱 I’m currently learning - I don't even know anymore i do random things 
 - 📫 How to reach me: discord: tbone#2652
 
