@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on - website which calls nasa api to display images on screen - a collaborative project with two teammates.
-- 🌱 I’m currently learning - React / next.js
+- 🔭 I’m currently working on - programs that do my math homework :)
+- 🌱 I’m currently learning - Taking nonlinear data structures -> learning algorithms / data structures (duh)
 - 📫 How to reach me: discord: tbone#2652
 
 I do random projects on my github. Everything I do that I think is at least somewhat interesting gets posted here. 
